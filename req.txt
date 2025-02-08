@@ -1,3 +1,4 @@
 ollama
 openai
 bs4
+gradio
